@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\06ConditionalStatements\Problem2\bin\Debug\Problem2.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\06ConditionalStatements\Problem2\obj\Debug\Problem2.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\06ConditionalStatements\Problem2\bin\Debug\Problem2.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\06ConditionalStatements\Problem2\bin\Debug\Problem2.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\06ConditionalStatements\Problem2\obj\Debug\Problem2.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\06ConditionalStatements\Problem2\obj\Debug\Problem2.pdb

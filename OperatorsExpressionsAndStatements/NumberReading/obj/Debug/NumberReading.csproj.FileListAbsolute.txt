@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\OperatorsExpressionsAndStatements\NumberReading\bin\Debug\NumberReading.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\OperatorsExpressionsAndStatements\NumberReading\bin\Debug\NumberReading.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\OperatorsExpressionsAndStatements\NumberReading\bin\Debug\NumberReading.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\OperatorsExpressionsAndStatements\NumberReading\obj\Debug\NumberReading.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\OperatorsExpressionsAndStatements\NumberReading\obj\Debug\NumberReading.pdb

@@ -1,0 +1,5 @@
+c:\Users\HP\documents\visual studio 2015\Projects\Loops\Loops2\bin\Debug\Loops2.exe.config
+c:\Users\HP\documents\visual studio 2015\Projects\Loops\Loops2\bin\Debug\Loops2.exe
+c:\Users\HP\documents\visual studio 2015\Projects\Loops\Loops2\bin\Debug\Loops2.pdb
+c:\Users\HP\documents\visual studio 2015\Projects\Loops\Loops2\obj\Debug\Loops2.exe
+c:\Users\HP\documents\visual studio 2015\Projects\Loops\Loops2\obj\Debug\Loops2.pdb

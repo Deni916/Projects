@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\ConditionalStatements\Exersice4\bin\Debug\Exersice4.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\ConditionalStatements\Exersice4\obj\Debug\Exersice4.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\ConditionalStatements\Exersice4\bin\Debug\Exersice4.exe
+c:\users\hp\documents\visual studio 2015\Projects\ConditionalStatements\Exersice4\bin\Debug\Exersice4.pdb
+c:\users\hp\documents\visual studio 2015\Projects\ConditionalStatements\Exersice4\obj\Debug\Exersice4.exe
+c:\users\hp\documents\visual studio 2015\Projects\ConditionalStatements\Exersice4\obj\Debug\Exersice4.pdb

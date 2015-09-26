@@ -1,0 +1,5 @@
+c:\users\hp\documents\visual studio 2015\Projects\ConditionalStatements\SIgnOfProduct\bin\Debug\SIgnOfProduct.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\ConditionalStatements\SIgnOfProduct\bin\Debug\SIgnOfProduct.exe
+c:\users\hp\documents\visual studio 2015\Projects\ConditionalStatements\SIgnOfProduct\bin\Debug\SIgnOfProduct.pdb
+c:\users\hp\documents\visual studio 2015\Projects\ConditionalStatements\SIgnOfProduct\obj\Debug\SIgnOfProduct.exe
+c:\users\hp\documents\visual studio 2015\Projects\ConditionalStatements\SIgnOfProduct\obj\Debug\SIgnOfProduct.pdb

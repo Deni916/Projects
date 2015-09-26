@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\OperatorsAndExpressions\MovieBit\bin\Debug\MovieBit.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\OperatorsAndExpressions\MovieBit\bin\Debug\MovieBit.exe
+c:\users\hp\documents\visual studio 2015\Projects\OperatorsAndExpressions\MovieBit\bin\Debug\MovieBit.pdb
+c:\users\hp\documents\visual studio 2015\Projects\OperatorsAndExpressions\MovieBit\obj\Debug\MovieBit.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\OperatorsAndExpressions\MovieBit\obj\Debug\MovieBit.exe
+c:\users\hp\documents\visual studio 2015\Projects\OperatorsAndExpressions\MovieBit\obj\Debug\MovieBit.pdb

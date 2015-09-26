@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\OperatorsExpressionsAndStatements\Calculating\bin\Debug\Calculating.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\OperatorsExpressionsAndStatements\Calculating\bin\Debug\Calculating.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\OperatorsExpressionsAndStatements\Calculating\bin\Debug\Calculating.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\OperatorsExpressionsAndStatements\Calculating\obj\Debug\Calculating.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\OperatorsExpressionsAndStatements\Calculating\obj\Debug\Calculating.pdb

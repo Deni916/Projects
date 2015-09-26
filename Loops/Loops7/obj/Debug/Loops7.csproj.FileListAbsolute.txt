@@ -1,0 +1,6 @@
+c:\Users\HP\documents\visual studio 2015\Projects\Loops\Loops7\bin\Debug\Loops7.exe.config
+c:\Users\HP\documents\visual studio 2015\Projects\Loops\Loops7\bin\Debug\Loops7.exe
+c:\Users\HP\documents\visual studio 2015\Projects\Loops\Loops7\bin\Debug\Loops7.pdb
+c:\Users\HP\documents\visual studio 2015\Projects\Loops\Loops7\obj\Debug\Loops7.csprojResolveAssemblyReference.cache
+c:\Users\HP\documents\visual studio 2015\Projects\Loops\Loops7\obj\Debug\Loops7.exe
+c:\Users\HP\documents\visual studio 2015\Projects\Loops\Loops7\obj\Debug\Loops7.pdb

@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatements\bin\Debug\OperatorsExpressionsAndStatements.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatements\bin\Debug\OperatorsExpressionsAndStatements.exe
+c:\users\hp\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatements\bin\Debug\OperatorsExpressionsAndStatements.pdb
+c:\users\hp\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatements\obj\Debug\OperatorsExpressionsAndStatements.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatements\obj\Debug\OperatorsExpressionsAndStatements.exe
+c:\users\hp\documents\visual studio 2015\Projects\OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatements\obj\Debug\OperatorsExpressionsAndStatements.pdb
